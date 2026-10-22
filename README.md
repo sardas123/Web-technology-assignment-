@@ -3,7 +3,7 @@ Resume and Bio-data Website
 
 A simple multi-page personal website built as a college assignment. It has a Home page, a Resume page, a Bio-data page and a Contact page, all inside a single file: index.html.
 
-Live site: https://your-username.github.io/my-resume/
+Live site: (https://github.com/sardas123/Web-technology-assignment-)
 
 Pages
 Page	What it shows
